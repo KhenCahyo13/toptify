@@ -17,7 +17,7 @@ This application is built with ReactJS. To run it locally, make sure you have No
 
 - Download the code. You can either ZIP it or clone this repository.
 - Install the dependencies with the ```yarn``` command.
-- Register your spotify account with Spotify Developer at the link ```https://developer.spotify.com/``` .
+- Register your spotify account with Spotify Developer at the link https://developer.spotify.com/ .
 - Rename the ```.env.example``` file to ```.env``` and fill in the credentials inside according to the credentials you got on Spotify Developer.
 - Run the project with the ```yarn run dev``` command or ```yarn run dev --host``` to expose your project with an external development URL.
-- Finally, you can open ``localhost:3000`` on the computer
+- Finally, you can open http://localhost:3000 on the computer
